@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       description: `Endulza tu paladar con nuestros exquisitos postres en 'La Pizza de Hugo'. Desde las cremosas Tarrinas Häagen-Dazs y los refrescantes Helados de Cucurucho hasta las tradicionales delicias como el Flan con Nata y Dulce de Leche o los Alfajores Havanna. Cada postre es una invitación a un viaje de sabores inolvidables.`,
       images: [
         {
-          url: '/img/logo-pizza-hugo.png',
+          url: '/img/productos/postres/Postre-vainilla-cookies.jpg',
         },
       ],
     },
