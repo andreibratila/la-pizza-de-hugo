@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://www.lapizzadehugo.es/</loc>
+  <lastmod>2023-08-20T01:16:53+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.lapizzadehugo.es/pizzas</loc>
+  <lastmod>2023-08-20T01:16:53+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.99</priority>
+</url>
+<url>
+  <loc>https://www.lapizzadehugo.es/contactanos</loc>
+  <lastmod>2023-08-20T01:16:53+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://www.lapizzadehugo.es/combos</loc>
+  <lastmod>2023-08-20T01:16:53+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.97</priority>
+</url>
+<url>
+  <loc>https://www.lapizzadehugo.es/politica-de-privacidad</loc>
+  <lastmod>2023-08-20T01:16:53+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.10</priority>
+</url>
+<url>
+  <loc>https://www.lapizzadehugo.es/empanadillas</loc>
+  <lastmod>2023-08-20T01:16:53+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.98</priority>
+</url>
+<url>
+  <loc>https://www.lapizzadehugo.es/pasta</loc>
+  <lastmod>2023-08-20T01:16:53+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.95</priority>
+</url>
+<url>
+  <loc>https://www.lapizzadehugo.es/ensaladas</loc>
+  <lastmod>2023-08-20T01:16:53+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.95</priority>
+</url>
+<url>
+  <loc>https://www.lapizzadehugo.es/postres</loc>
+  <lastmod>2023-08-20T01:16:53+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://www.lapizzadehugo.es/bebidas</loc>
+  <lastmod>2023-08-20T01:16:53+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.50</priority>
+</url>
+</urlset>
