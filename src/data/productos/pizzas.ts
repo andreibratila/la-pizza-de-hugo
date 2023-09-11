@@ -1,61 +1,61 @@
 export const pizzaData = [
     
     {
-        title:'Pizzas Clásicas - Mediana: 9,50€ / Familiar: 17,00€', 
+        title:'Pizzas Clásicas - Mediana: 9,50€ / Familiar: 16,95€', 
         pizzas: [
             {
                 name:'Básica',
                 path:'/img/productos/pizzas/clasicas/Pizza-basica.jpg',
                 desc:'Tomate, mozzarella, aceitunas y orégano.',
-                price:'Mediana: 9,50€ / Familiar: 17,00€'
+                price:'Mediana: 9,50€ / Familiar: 16,95€'
             },
             {
                 name:'Tropical',
                 path:'/img/productos/pizzas/clasicas/Pizza-tropical.jpg',
                 desc:'Jamón, piña, mozzarella, aceitunas y orégano.',
-                price:'Mediana: 9,50€ / Familiar: 17,00€'
+                price:'Mediana: 9,50€ / Familiar: 16,95€'
             },
             {
                 name:'Jamón',
                 path:'/img/productos/pizzas/clasicas/Pizza-jamon.jpg',
                 desc:'Jamón, mozzarella, aceitunas y orégano.',
-                price:'Mediana: 9,50€ / Familiar: 17,00€'
+                price:'Mediana: 9,50€ / Familiar: 16,95€'
             },
             {
                 name:'Jamón y bacon',
                 path:'/img/productos/pizzas/clasicas/Pizza-jamon-y-bacon.jpg',
                 desc:'Jamón, bacon, mozzarella, aceitunas y orégano.',
-                price:'Mediana: 9,50€ / Familiar: 17,00€'
+                price:'Mediana: 9,50€ / Familiar: 16,95€'
             },
             {
                 name:'Jamón y champiñones',
                 path:'/img/productos/pizzas/clasicas/Pizza-jamon-y-champi.jpg',
                 desc:'Jamón, champiñones, mozzarella, aceitunas y orégano.',
-                price:'Mediana: 9,50€ / Familiar: 17,00€'
+                price:'Mediana: 9,50€ / Familiar: 16,95€'
             },
             {
                 name:'Jamón y atún',
                 path:'/img/productos/pizzas/clasicas/Pizza-jamon-y-atun.jpg',
                 desc:'Jamón, atún, mozzarella, aceitunas y orégano.',
-                price:'Mediana: 9,50€ / Familiar: 17,00€'
+                price:'Mediana: 9,50€ / Familiar: 16,95€'
             },
             {
                 name:'Jamón y frankfurt',
                 path:'/img/productos/pizzas/clasicas/Pizza-jamon-y-frankfurt.jpg',
                 desc:'Jamón, frankfurt, mozzarella, aceitunas y orégano.',
-                price:'Mediana: 9,50€ / Familiar: 17,00€'
+                price:'Mediana: 9,50€ / Familiar: 16,95€'
             },
             {
                 name:'Boloñesa',
                 path:'/img/productos/pizzas/clasicas/Pizza-bolonesa.jpg',
                 desc:'Salsa boloñesa de carne, mozzarella, aceitunas y orégano.',
-                price:'Mediana: 9,50€ / Familiar: 17,00€'
+                price:'Mediana: 9,50€ / Familiar: 16,95€'
             },
             {
                 name:'Atún y cebolla',
                 path:'/img/productos/pizzas/clasicas/Pizza-atun-y-cebolla.jpg',
                 desc:'Atún, cebolla, mozzarella, aceitunas y orégano.',
-                price:'Mediana: 9,50€ / Familiar: 17,00€'
+                price:'Mediana: 9,50€ / Familiar: 16,95€'
             },
         ]
     },
