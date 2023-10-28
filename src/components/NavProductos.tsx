@@ -1,8 +1,8 @@
-'use client'
-import Link from 'next/link';
-import { usePathname } from 'next/navigation'
+"use client";
+import Link from "next/link";
+import { usePathname } from "next/navigation";
 
-import { navbarProductosLink } from '@/data/navbarProductosLink';
+import { navbarProductosLink } from "@/data/navbarProductosLink";
 
 export const NavProductos: React.FC = () => {
   const pathname = usePathname();
@@ -12,11 +12,19 @@ export const NavProductos: React.FC = () => {
         {navbarProductosLink.map(({ link, name }, i) => (
           <li key={i} className="p-0">
             <Link href={link}>
-              <span className={`block px-2 py-1 text-webC ${pathname === link? "decoration-double underline underline-offset-4":"hover:opacity-50 "}`}>{name}</span>
+              <span
+                className={`block px-2 py-1 text-webC ${
+                  pathname === link
+                    ? "decoration-double underline underline-offset-4"
+                    : "hover:opacity-50 "
+                }`}
+              >
+                {name}
+              </span>
             </Link>
           </li>
         ))}
       </ul>
     </nav>
-  )
-}
+  );
+};
